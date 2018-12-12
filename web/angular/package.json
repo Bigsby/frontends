@@ -1,0 +1,11 @@
+{
+  "name": "bigsby-organizer",
+  "version": "1.0.0",
+  "description": "an organizer app that for contacts and calendar management",
+  "scripts": {},
+  "author": "bigsby",
+  "license": "ISC",
+  "devDependencies": {
+    "@angular/cli": "^7.1.2"
+  }
+}
